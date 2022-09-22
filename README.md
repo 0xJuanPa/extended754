@@ -1,6 +1,12 @@
 # extended754
 Proyecto con fines académicos. Aritmética de punto flotante con precisión variable, multibase, emulada en software. Extiende y es compatible con el estándar IEEE 754.
 
+## Requerimientos
+
+'''
+python 3.9+, (no se ha probado si afecta la limitación de representacion de enteros en python 3.10.7 que igual puede desactivarse)
+'''
+
 ## Ejemplos de uso
 
 ![image](https://user-images.githubusercontent.com/93363464/191823860-14dbad65-5687-4605-8580-fd9fe14257ec.png)
