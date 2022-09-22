@@ -3,9 +3,11 @@ Proyecto con fines académicos. Aritmética de punto flotante con precisión var
 
 ## Requerimientos
 
-'''
+```
+
 python 3.9+, (no se ha probado si afecta la limitación de representacion de enteros en python 3.10.7 que igual puede desactivarse)
-'''
+
+```
 
 ## Ejemplos de uso
 
